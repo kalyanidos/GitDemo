@@ -29,7 +29,7 @@ public class AutomationScripts extends Reusable {
 	public static void main(String[] args) throws InterruptedException, IOException {
 		// TODO Auto-generated method stub
 		Reusable re=new Reusable();
-		
+		//these atr re usable methods
 		LoginErrorMessage_1();
 		LoginToSalesForce_2();
 		Tc3_Test_the_rememberUsername_check();
